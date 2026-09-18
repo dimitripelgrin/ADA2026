@@ -16,7 +16,7 @@ We don't care which platform you use to produce the Jupyter Notebook files that 
 *For Linux (x86)*: Open a terminal, go to the Downloads folder and execute:
 
 ```
-bash ./Anaconda3-2025.06-0-Linux-x86_64.sh -b -p $HOME/Anaconda3
+bash ./Anaconda3-2026.07-1-Linux-x86_64.sh -b -p $HOME/Anaconda3
 ```
 
 Check that `conda` is in your path. If `which conda` returns something like `/home/YOURUSERNAME/Anaconda3/bin/conda`, you are good to go. Otherwise execute
@@ -43,8 +43,8 @@ Install it following this download link: [Git](https://git-scm.com/download/win)
 * Clone the tutorials repo into a local folder:
 
 ```
-git clone https://github.com/epfl-ada/2025 ADA2025
-cd ADA2025
+git clone https://github.com/epfl-ada/2026 ADA2026
+cd ADA2026
 ```
 <!-- 
 * or pull new changes if you already have it (from the local folder):
